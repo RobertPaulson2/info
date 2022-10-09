@@ -4,13 +4,13 @@
 
 + __Что разрабатываем?__ - Единая Платформа Студентов (ЕПС)
 
-+ __Кто разрабатывает?__ - [Команда](https://github.com/RobertPaulson2/info/developers)
++ __Кто разрабатывает?__ - [Команда](https://github.com/RobertPaulson2/info/tree/master/developers)
 
-+ __На чем разрабатываем?__ - [Стек технологий](https://github.com/RobertPaulson2/info/stack)
++ __На чем разрабатываем?__ - [Стек технологий](https://github.com/RobertPaulson2/info/tree/master/stack)
 
-+ __Структура системы__ - [Схемы](https://github.com/RobertPaulson2/info/schemas)
++ __Структура системы__ - [Схемы](https://github.com/RobertPaulson2/info/tree/master/schemas)
 
-+ __Структура репозиториев__ - [Еще схемы](https://github.com/RobertPaulson2/info/repos)
++ __Структура репозиториев__ - [Еще схемы](https://github.com/RobertPaulson2/info/tree/master/repos)
 
 
 ## Текущая стадия разработки - Проектирование
