@@ -1,10 +1,10 @@
 # Команда разработчиков
 
-+ [__Руководство__](https://github.com/RobertPaulson2/info/developers#Руководство)
-+ [__Backend__](https://github.com/RobertPaulson2/info/developers#Backend)
-+ [__Frontend__](https://github.com/RobertPaulson2/info/developers#)
-+ [__Аналитика__](https://github.com/RobertPaulson2/info/developers#Аналитика)
-+ [__Тестировка__](https://github.com/RobertPaulson2/info/developers#Тестировка)
++ [__Руководство__](https://github.com/RobertPaulson2/info/tree/master/developers#Руководство)
++ [__Backend__](https://github.com/RobertPaulson2/info/tree/master/developers#Backend)
++ [__Frontend__](https://github.com/RobertPaulson2/info/tree/master/developers#Frontend)
++ [__Аналитика__](https://github.com/RobertPaulson2/info/tree/master/developers#Аналитика)
++ [__Тестировка__](https://github.com/RobertPaulson2/info/tree/master/developers#Тестировка)
 
 
 ## Руководство
