@@ -23,3 +23,11 @@
 ## Модель БД микросервиса комментариев
 
 ![БД](https://github.com/RobertPaulson2/info/blob/master/schemas/Comments.jpg)
+
+## Модель БД микросервиса тем
+
+В разработке
+
+## Модель БД микросервиса ответов
+
+![БД](https://github.com/RobertPaulson2/info/blob/master/schemas/replies.jpg)
