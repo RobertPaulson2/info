@@ -11,3 +11,15 @@
 ## Архитектура цифрового помощника
 
 ![Цифровой помощник](https://github.com/RobertPaulson2/info/blob/master/schemas/forum.png)
+
+## Модель БД микросервиса автризации
+
+![БД](https://github.com/RobertPaulson2/info/blob/master/schemas/Auth.jpg)
+
+## Модель БД микросервиса новостей
+
+![БД](https://github.com/RobertPaulson2/info/blob/master/schemas/News 1.jpg)
+
+## Модель БД микросервиса комментариев
+
+![БД](https://github.com/RobertPaulson2/info/blob/master/schemas/Comments.jpg)
