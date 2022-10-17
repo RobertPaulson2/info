@@ -18,7 +18,7 @@
 
 ## Модель БД микросервиса новостей
 
-![БД](https://github.com/RobertPaulson2/info/blob/master/schemas/News 1.jpg)
+![БД](https://github.com/RobertPaulson2/info/blob/master/schemas/NewsDB.jpg)
 
 ## Модель БД микросервиса комментариев
 
