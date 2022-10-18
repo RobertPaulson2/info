@@ -26,7 +26,7 @@
 
 ## Модель БД микросервиса тем
 
-![БД](https://github.com/RobertPaulson2/info/blob/master/schemas/Topic.jpg)
+![БД](https://github.com/RobertPaulson2/info/blob/master/schemas/Topics.png)
 
 ## Модель БД микросервиса ответов
 
